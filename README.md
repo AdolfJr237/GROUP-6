@@ -12,6 +12,5 @@ The prototype will:
 - Recommend manager-approved reorder dates and quantities under supplier lead-time and budget constraints.
 - Provide a read-only AI assistant grounded in validated inventory data.
 
-## Initial status
 
-Repository foundation only. Application implementation starts after requirements and synthetic data design are agreed.
+
